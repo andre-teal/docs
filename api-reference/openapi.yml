@@ -1,6 +1,6 @@
-{ openapi: 3.1.0
-
-  id: cx2nr1n6xgbzlf
+openapi: 3.1.0
+x-stoplight:
+  id: cx2nr1n6xgbzl
 info:
   title: API Reference
   version: '1.0'
@@ -221,4 +221,4 @@ components:
     apiKey_1:
       name: apiKey
       type: apiKey
-      in: query } 
+      in: query
