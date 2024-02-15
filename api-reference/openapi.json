@@ -1,4 +1,4 @@
-openapi: 3.1.0
+{ openapi: 3.1.0
 x-stoplight:
   id: cx2nr1n6xgbzlf
 info:
@@ -221,4 +221,4 @@ components:
     apiKey_1:
       name: apiKey
       type: apiKey
-      in: query
+      in: query } 
