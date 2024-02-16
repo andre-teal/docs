@@ -5,7 +5,7 @@ info:
   title: API Reference
   version: '1.0'
   description: |
-    Teal provides a modular API that can be integrated within the loan application journey. The user will be able to connect to their payroll provider or upload their payslips, to instantly share their income and employment data. The web-flow is fully customisable and can be kept within a lender’s brand guidelines, to create a seamless user experience.
+    Teal a modular API that can be integrated within the loan application journey. The user will be able to connect to their payroll provider or upload their payslips, to instantly share their income and employment data. The web-flow is fully customisable and can be kept within a lender’s brand guidelines, to create a seamless user experience.
     Teal's API adheres to RESTful principles, functioning over HTTPS to guarantee the secure transfer of data. All interactions, including both requests and responses, are communicated in JSON format.
   summary: ''
   contact:
